@@ -1,0 +1,11 @@
+Game Title: GUN GAME
+
+Overview: GUN GAME is a maze-based 3D shooting game that combines intense combat experiences with psychological horror elements. Players navigate through progressively challenging mazes, facing various types of enemies, including normal foes, advanced enemies, and formidable bosses. The game emphasizes strategy and quick reflexes, requiring players to skillfully utilize movement, shooting, dodging, and berserk modes to survive and achieve kill objectives in each level.
+
+Key Features:
+
+Dynamic Maze Generation: Each level features a uniquely generated maze that scales in complexity based on the level number, including standard mazes, plazas, arenas, and multi-story buildings, ensuring a fresh gameplay experience every time.
+Diverse Enemies: Encounter a range of enemies from standard adversaries to advanced types and powerful bosses that appear every three levels, increasing the diversity and challenge as the game progresses.
+Psychological Horror Elements: As the player's sanity decreases, the game introduces hallucination effects and messages like "BIG BROTHER IS WATCHING," enhancing the tense atmosphere.
+Varied Controls: Players can move, shoot, reload, dodge, activate berserk mode, and execute enemies using different keys, providing multiple strategies to handle various combat scenarios.
+Visuals and Sound Effects: Carefully designed 3D perspectives, mini-maps, weapon animations, and a variety of sound effects (shooting, hits, deaths, whispers, etc.) create an immersive gaming experience.
